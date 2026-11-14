@@ -1,7 +1,7 @@
 # Chemostat_phytoplankton_carbon_storage
 
 ## General description
-Matlab code for chemostat model with phytoplankton with carbon storage capacity. The code is flexible to the number of phytoplankton species and carbon storage capacities. The model aims to capture phytoplankton carbon storage under diel light cycles, who can store extra carbon during the day and allocate it for growth at night.
+Matlab code for chemostat model of phytoplankton with carbon storage capacity. The code is flexible to the number of phytoplankton species and carbon storage capacities. The model aims to capture phytoplankton carbon storage under diel light cycles, who can store extra carbon during the day and allocate it for growth at night.
 
 ## Storage_chemostat_model.m
 This is the master script to run the model and choose parameterization: choose the number of phytoplankton species, growth parameters including carbon storage capacity, and chemostat model parameters (dilution rate and nutrient supply concentration).
